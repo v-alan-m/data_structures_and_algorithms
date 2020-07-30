@@ -3,14 +3,11 @@
 An overview of the major data structures:
 
 1. Algorithms analysis and Big-O notation
-
 2. Array sequences
-
 3. Stacks queues and deques
     3.1 Stacks
     3.2 Queues
     3.3 Deques
-    
 4. Linked lists
     4.1 Singly linked lists
         4.1.1 Insert an element at the head of a singly linked list
@@ -20,7 +17,6 @@ An overview of the major data structures:
     4.2 Singly linked lists
     4.3 Insert a new node in a doubly linked list
     4.4 Delete a new node in a doubly linked list
-    
 5. Recursion
     5.1 What is recursion
     5.2 Why use recursion
@@ -32,7 +28,6 @@ An overview of the major data structures:
         5.4.1.1 Impliment explicity
         5.4.1.2 Impliment using a built-in tool
         5.4.1.3 Account for edge-cases
-
 6. Trees
     6.1 Introduction
     6.2 Representing a Tree through Lists
@@ -49,7 +44,6 @@ An overview of the major data structures:
         6.6.1 Deleting nodes case 1
         6.6.2 Deleting nodes case 2
         6.6.3 Deleting nodes case 3
-    
 7. Searching and sorting
     7.1 Sequential search
         7.1.1 Unordered list
@@ -67,5 +61,4 @@ An overview of the major data structures:
     7.10 Merge Sort vs Quick Sort
         7.10.1 Conculsion
     7.10.2 Considerations
-
 8. Graph  
