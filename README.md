@@ -5,18 +5,18 @@ An overview of the major data structures:
 ## 1. Algorithms analysis and Big-O notation  
 ## 2. Array sequences  
 ## 3. Stacks queues and deques  
-    ### 3.1 Stacks  
-    ### 3.2 Queues  
-    ### 3.3 Deques  
+### 3.1 Stacks  
+### 3.2 Queues  
+### 3.3 Deques  
 ## 4. Linked lists  
-    ### 4.1 Singly linked lists  
-    #### 4.1.1 Insert an element at the head of a singly linked list  
-    #### 4.1.2 Insert an element at the end of a singly linked list  
-    #### 4.1.3 Removing an element at the head of a singly linked list  
-    #### 4.1.4 Remvoing an element at the end of a singly linked list  
-    ### 4.2 Singly linked lists  
-    ### 4.3 Insert a new node in a doubly linked list  
-    ### 4.4 Delete a new node in a doubly linked list  
+### 4.1 Singly linked lists  
+#### 4.1.1 Insert an element at the head of a singly linked list  
+#### 4.1.2 Insert an element at the end of a singly linked list  
+#### 4.1.3 Removing an element at the head of a singly linked list  
+#### 4.1.4 Remvoing an element at the end of a singly linked list  
+### 4.2 Singly linked lists  
+### 4.3 Insert a new node in a doubly linked list  
+### 4.4 Delete a new node in a doubly linked list  
 ## 5. Recursion  
     ### 5.1 What is recursion  
     ### 5.2 Why use recursion  
