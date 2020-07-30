@@ -3,7 +3,7 @@
 An overview of the major data structures:
 
 ## 1. Algorithms analysis and Big-O notation  
-
+<br></br>
 ## 2. Array sequences  
 
 ## 3. Stacks queues and deques  
