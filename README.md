@@ -11,7 +11,7 @@ An overview of the major data structures:
     3.2 Queues  
     3.3 Deques  
     
-4. Linked lists  
+4. Linked lists
     4.1 Singly linked lists  
 	4.1.1 Insert an element at the head of a singly linked list  
 	4.1.2 Insert an element at the end of a singly linked list  
