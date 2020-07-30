@@ -5,9 +5,9 @@ An overview of the major data structures:
 1. Algorithms analysis and Big-O notation  
 2. Array sequences  
 3. Stacks queues and deques  
-    3.1 Stacks
-    3.2 Queues
-    3.3 Deques
+    3.1 Stacks  
+    3.2 Queues  
+    3.3 Deques  
 4. Linked lists
     4.1 Singly linked lists
         4.1.1 Insert an element at the head of a singly linked list
