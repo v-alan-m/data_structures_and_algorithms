@@ -69,13 +69,13 @@ An overview of the major data structures:
 #### 7.10.2 Considerations  
 
 ## 8. Graph  
-### Introduction to graphs
-### Adjacency matrix and adjacency list
-### Implementation of a graph
-#### Word ladder problem
-### Breadth first search (BFS)
-#### Knights tour example
-### General Depth first search (DFS)
-### Implemenation of a graph overview
-### Implemenation of a depth first search overview
-### Implemenation of a breadth first search overview
+### 8.1 Introduction to graphs
+### 8.2 Adjacency matrix and adjacency list
+### 8.3 Implementation of a graph
+#### 8.3.1 Word ladder problem
+### 8.4 Breadth first search (BFS)
+#### 8.4.1 Knights tour example
+### 8.5 General Depth first search (DFS)
+### 8.6 Implemenation of a graph overview
+### 8.7 Implemenation of a depth first search overview
+### 8.8 Implemenation of a breadth first search overview
